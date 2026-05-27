@@ -184,18 +184,20 @@ Five custom Azure Monitor Workbooks have been constructed for the `pp-admin-weba
 Below are the visual dashboards captured from the Azure portal:
 
 #### 1. Telemetry Dashboard Overview
-<img width="1907" height="306" alt="workbook-telemetry" src="https://github.com/user-attachments/assets/40e21443-dc90-4ab9-8f22-8b94be7abcf2" />
+<img width="1907" height="306" alt="workbook-telemetry" src="https://github.com/user-attachments/assets/d7b67c76-7e06-40c9-bf69-3b84adc8f22f" />
+
 
 
 #### 2. Page Views Workbook
-<img width="1846" height="603" alt="page views - workbooks" src="https://github.com/user-attachments/assets/cf3ad594-1383-46cf-ac04-0b7604a5fbca" />
+<img width="1846" height="603" alt="page views - workbooks" src="https://github.com/user-attachments/assets/eb01d104-d32b-4b8f-a1ba-c10e75bde73a" />
+
 
 
 
 #### 3. Error Logs Workbook
 
+<img width="1880" height="602" alt="error logs - workbooks" src="https://github.com/user-attachments/assets/0f8d9d3e-d835-4f59-a3be-87cb101680a4" />
 
----<img width="1880" height="602" alt="error logs - workbooks" src="https://github.com/user-attachments/assets/d83ee2db-2290-4372-a714-31094903816a" />
 
 
 ## Section 3: Azure Alert Rules Configuration
