@@ -214,7 +214,8 @@ To create an Azure Monitor Alert Rule based on a query running inside a custom W
    * Check the checkbox: **`Show open external query button when not editing`**.
    * Click the **Done Editing** button on that query block.
    * Click the **Save** (disk icon) or **Done Editing** button at the very top of the Workbook to apply the change permanently.
-     <img width="1367" height="818" alt="alerts-check-mandate" src="https://github.com/user-attachments/assets/d846edfe-609f-4df7-b666-54e3427bfbb3" />
+   <img width="1367" height="818" alt="alerts-check-mandate" src="https://github.com/user-attachments/assets/869014c8-05c1-4b24-8d91-290d5dbc806e" />
+
 
 
 2. **Open the Query in Logs:**
